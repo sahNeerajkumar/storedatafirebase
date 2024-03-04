@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "608353264911",
+    "project_id": "detastore-14262",
+    "storage_bucket": "detastore-14262.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608353264911:android:00d132eb6424357f120a7a",
+        "android_client_info": {
+          "package_name": "com.example.storedetafirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD97M_I1R4-FHaAQudrLMvRO1JcamdhEMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
